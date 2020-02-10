@@ -1,0 +1,82 @@
+.header{
+    color:white;
+    background-color: #651E1E;
+}
+.flood-bloog{
+    margin-left: 80px;
+    float: top;
+}
+
+.menu{
+    background-color: black;
+    hover:yellow;
+    color:White;
+}
+h4{
+    background-color:#B04C0B;
+    color: White;
+}
+.photo{
+    float:right;
+   margin-right: 80px;
+   margin-top: 30px;
+  
+}
+.block1{
+    width: 100%;
+    border:1px solid lightgrey;
+    padding: 0px 10px;
+    margin:0px 170px;
+    height:375;
+    
+
+}
+.block2{
+    width: 100%;
+    border:1px solid lightgrey;
+    padding: 0px 10px;
+    margin:0px 170px;
+    height:390;
+    
+
+}
+.block3{
+    width: 60%;
+    border:1px solid lightgrey;
+    padding: 0px 10px;
+    margin:5px 250px;
+    height: 375;
+    
+    
+
+}
+.block4{
+    width: 60%;
+    border:1px solid lightgrey;
+    padding: 0px 10px;
+    margin:5px 250px;
+    height:218 ;
+    
+
+}
+.block5{
+    width: 60%;
+    border:1px solid lightgrey;
+    padding: 0px 10px;
+    margin:5px 250px;
+    
+
+}
+img{
+    float: left;
+}
+.bibek{
+    float: right;
+}
+footer{
+    height: 30;
+    float: buttom;
+}
+.pic{
+    padding: 1px 20px 10px 25px;
+}
